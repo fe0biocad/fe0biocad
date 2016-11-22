@@ -1,0 +1,10 @@
+# Site settings
+title: For Biocad Group
+tag_text: Biocad & Федоренко
+description: Resume for Biocad
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
